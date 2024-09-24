@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j10aReHDY7c=",
+  "dgSpecHash": "IadWEWS9rY8=",
   "success": true,
-  "projectFilePath": "C:\\Program Files\\Sublime Merge\\OrdenadorLibroIVA\\OrdenadorLibroIVA\\OrdenadorLibroIVA.csproj",
+  "projectFilePath": "C:\\Program Files\\Sublime Merge\\OrdenadorLibro\\OrdenadorLibroIVA\\OrdenadorLibroIVA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\w1zar\\.nuget\\packages\\closedxml\\0.102.3\\closedxml.0.102.3.nupkg.sha512",
     "C:\\Users\\w1zar\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",

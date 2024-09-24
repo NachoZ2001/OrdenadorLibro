@@ -197,9 +197,9 @@ namespace OrdenadorLibroIVA
                 string nombreArchivo = System.IO.Path.GetFileNameWithoutExtension(archivo.FullName);
                 string[] partesNombre = nombreArchivo.Split('-', StringSplitOptions.RemoveEmptyEntries);
 
-                string puntoVenta = partesNombre[0];
-                string numeroComprobante = partesNombre[1];
-                string denominacionEmisor = partesNombre[2];
+                string puntoVenta = partesNombre[0].Trim();
+                string numeroComprobante = partesNombre[1].Trim();
+                string denominacionEmisor = partesNombre[2].Trim();
 
                 // Procesar las partes
                 puntoVenta = EliminarCerosNoSignificativos(puntoVenta);

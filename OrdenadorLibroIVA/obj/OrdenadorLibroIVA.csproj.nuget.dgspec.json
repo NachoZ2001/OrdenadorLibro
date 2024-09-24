@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Program Files\\Sublime Merge\\OrdenadorLibroIVA\\OrdenadorLibroIVA\\OrdenadorLibroIVA.csproj": {}
+    "C:\\Program Files\\Sublime Merge\\OrdenadorLibro\\OrdenadorLibroIVA\\OrdenadorLibroIVA.csproj": {}
   },
   "projects": {
-    "C:\\Program Files\\Sublime Merge\\OrdenadorLibroIVA\\OrdenadorLibroIVA\\OrdenadorLibroIVA.csproj": {
+    "C:\\Program Files\\Sublime Merge\\OrdenadorLibro\\OrdenadorLibroIVA\\OrdenadorLibroIVA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Program Files\\Sublime Merge\\OrdenadorLibroIVA\\OrdenadorLibroIVA\\OrdenadorLibroIVA.csproj",
+        "projectUniqueName": "C:\\Program Files\\Sublime Merge\\OrdenadorLibro\\OrdenadorLibroIVA\\OrdenadorLibroIVA.csproj",
         "projectName": "OrdenadorLibroIVA",
-        "projectPath": "C:\\Program Files\\Sublime Merge\\OrdenadorLibroIVA\\OrdenadorLibroIVA\\OrdenadorLibroIVA.csproj",
+        "projectPath": "C:\\Program Files\\Sublime Merge\\OrdenadorLibro\\OrdenadorLibroIVA\\OrdenadorLibroIVA.csproj",
         "packagesPath": "C:\\Users\\w1zar\\.nuget\\packages\\",
-        "outputPath": "C:\\Program Files\\Sublime Merge\\OrdenadorLibroIVA\\OrdenadorLibroIVA\\obj\\",
+        "outputPath": "C:\\Program Files\\Sublime Merge\\OrdenadorLibro\\OrdenadorLibroIVA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
