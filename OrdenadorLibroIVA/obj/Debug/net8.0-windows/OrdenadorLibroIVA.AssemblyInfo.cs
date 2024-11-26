@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrdenadorLibroIVA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c4f1b07adcedd2e42e1b01db8163a161ca76544")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac2b2ebdcd7c6782f13be929d30421a5f2b210b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrdenadorLibroIVA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrdenadorLibroIVA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
